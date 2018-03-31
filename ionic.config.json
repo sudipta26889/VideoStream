@@ -1,0 +1,8 @@
+{
+  "name": "VideoStream",
+  "app_id": "039570c4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
